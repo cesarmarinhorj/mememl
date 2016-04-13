@@ -1,0 +1,14 @@
+{
+    "name": "MemeML",
+    "description": "Meme Modeling Language",
+    "authors": [
+        {
+            "name": "Cesar Marinho",
+            "email": "cesarmarinhorj@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",
+        "laravel/lumen-framework": "5.2.*"
+    }
+}
